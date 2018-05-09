@@ -73,7 +73,9 @@ $ msbuild MeuSistema.sln /p:PublishProfile=Production.pubxml
 
 > Mas como ele só tinha feito um curso de [Visual Studio][VS-LINK] e sempre usou a ferramenta de forma visual, passou batido por esse detalhe e perdeu um dia com desculpas de atraso e tentando reparar sua instalação do [Visual Studio][VS-LINK].
 
-Então **ESTE CURSO** trata de **"Programação de Computadores"** e espero poder ajudar você a elucidar esses princípios. Depois quero te ajudar na escolha de sua primeira linguagem de programação e dar os primeiros passos com ela até desenvolver seus primeiros programas, mas isso não será nesse curso e sim em um próximo. De qualquer forma, você precisará primeiro entender esses princípios básicos.
+Então **ESTE CURSO** trata de **"Programação de Computadores"** e espero poder ajudar você a elucidar esses princípios. E você verá que ter esse conhecimento básico é na verdade crucial pra sua vida profissional ser bem sucedida.
+
+Depois é claro que quero te ajudar na escolha de sua primeira linguagem de programação (se você ainda não conhecer nenhuma) e dar os primeiros passos com ela até desenvolver seus primeiros programas, mas isso não será nesse curso e sim em um próximo. De qualquer forma, você precisará primeiro entender esses princípios básicos (ou rever caso você já seja um programador).
 
 Que você faça um bom proveito deste material.
 
