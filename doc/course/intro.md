@@ -25,9 +25,9 @@ Também conheço algumas linguagens usadas principalmente para automação:
 * [Shell Script][SHELLSCRIPT-LINK]
 * [PowerShell][POWERSHELL-LINK]
 
-Talvez você se surpreenda por [Java][JAVA-LINK] não estar nessa minha lista, mas na verdade eu também conheço um pouco de [Java][JAVA-LINK], porém nunca trabalhei em nenhum projeto nessa plataforma. Eu tenho uma história um tanto quanto conturbada com o mundo [Java][JAVA-LINK], e nunca tive uma boa experiência com a comunidade, mas a linguagem em si a a plataforma com um todo me facinam muito, eu só não tive oportunidade de trabalhar em um projeto de verdade, mas já estou providenciando isso.
+Talvez você se surpreenda por [Java][JAVA-LINK] não estar nessa minha lista, mas na verdade eu também conheço um pouco de [Java][JAVA-LINK], porém nunca trabalhei em nenhum projeto nessa plataforma. Eu tenho uma história um tanto quanto conturbada com o mundo [Java][JAVA-LINK], e nunca tive uma boa experiência com a comunidade, mas a linguagem em si e a plataforma como um todo me facinam muito, eu só não tive a oportunidade de trabalhar em um projeto de verdade, mas já estou providenciando isso.
 
-Neste exato momento estou estudando sobre [Java][JAVA-LINK] e [Perl][PERL-LINK], mais especificamente [Perl6][PERL6-LINK]. E também sobre linguagens funcionais (vamos falar sobre isso em ["Paradigmas das Linguagens de Programação"][PARADIGMAS-LINK]); as que estou estudando, além de [Perl6][PERL6-LINK], são [F# (éfe sharp)][FSHARP-LINK] e [Elixir][ELIXIR-LINK] e [Julia][JULIA-LINK] está na fila também.
+Neste exato momento estou estudando sobre [Java][JAVA-LINK] e [Perl][PERL-LINK], mais especificamente [Perl6][PERL6-LINK]. E também sobre linguagens funcionais (vamos falar sobre isso em ["Paradigmas das Linguagens de Programação"][PARADIGMAS-LINK]); as que estou estudando, além de [Perl6][PERL6-LINK], são [F#][FSHARP-LINK] (éfe sharp), [Elixir][ELIXIR-LINK] e [Julia][JULIA-LINK] está na fila também.
 
 ## Sobre este curso
 
@@ -35,7 +35,7 @@ Fiz questão de colocar nas minhas informações pessoais do item anterior as v�
 
 Porque não um curso de "Programação com C#", ou "Programação Java", ou ainda "Programação Orientada a Objetos" ou também "Programação Funcional"? Porque na verdade o que temos muito por aí são cursos nesse sentido, e na verdade pretendo continuar escrevendo e criar também esses cursos.
 
-Mas o que importa aqui é que, independente da linguagem ou plataforma ou paradigma que você esteja trabalhando ou aprendendo, existem as coisas que são a base da programação de computadores, e elas não costumam mudar. E eu posso dizer isso depois de trabalhar com inúmeras linguagens, plataformas e paradigmas, além de acompanhar o quanto essas linguagens evoluiram, e o quanto as bases permanecem as mesmas desde o primeiro dia que escrevi meu primeiro programa ["Hello World!"][HELLOWORLD-LINK] em [VBA][VBA-LINK] lá pra meados de 2002 ou 2003. Na verdade as bases permanecem as mesmas desde muito antes, mas como eu comecei a programar mesmo só nessa época, prefiro atestar só o que vivi pessoalmente.
+Mas o que importa aqui é que, independente da linguagem ou plataforma ou paradigma que você esteja trabalhando, existem as coisas que são a base da programação de computadores, e elas não costumam mudar. Eu posso dizer isso depois de trabalhar com inúmeras linguagens, plataformas e paradigmas, além de acompanhar o quanto essas evoluiram, e o quanto as bases permanecem as mesmas desde o primeiro dia em que escrevi meu primeiro programa ["Hello World!"][HELLOWORLD-LINK] em [VBA][VBA-LINK] lá pra meados de 2002 ou 2003. Na verdade as bases permanecem as mesmas desde muito antes, mas como eu comecei a programar mesmo só nessa época, prefiro atestar só o que vivi pessoalmente.
 
 ### A motivação
 
@@ -55,7 +55,25 @@ Porém, o que poucos sabem é que TODAS as linguagens de programação, seja [C]
 
 E quando você sabe os princípios básicos de "Programação de Computadores" pode aplicar isso com qualquer "linguagem de programação". Daí você passa a entender o que cada uma tem de melhor e aplicá-las na resolução de seus problemas computacionais.
 
-Voltando então aos meus colegas (e eu também sou um desses colegas) que por vezes eu os tenha pego em certos "apagões": Na verdade eu percebi que o que faltava na verdade eram esses conhecimentos básicos.
+Voltando então aos meus colegas (e eu também sou um desses colegas) que por vezes tem certos "apagões": Na verdade eu percebi que o que faltava na verdade eram esses conhecimentos básicos.
+
+Veja um exemplo de situação que já passem:
+
+> Um colega desenvolvedor [.NET][DOTNET-LINK] tinha que publicar um sistema de forma urgente, mas o seu [Visual Studio][VS-LINK] estava com um problema que travava a tela assim que abria, e ele não conseguia abrir o projeto. Mas o que ele precisava era só publicar o projeto.
+
+> Ele já estava com o código do sistema e já tinha as ferramentas do [Visual Studio][VS-LINK] instaladas na máquina, só não conseguia abrir a [IDE][IDE-LINK] (o problema era só um plugin instalado que estava dando "pau").
+
+> Mas se ele lembrasse do princípio básico da programação que diz que um código é compilado antes de ser executado em si, ou seja, o que ele precisava era só compilar o código que ele já tinha em mãos.
+
+> Juntando a isso, se ele lembrasse que o [Visual Studio][VS-LINK] na verdade usa o [MSBuild][MSBUILD-LINK] para compilar e publicar a aplicação quando clicamos nos menus "Build" e "Publish", e que o [MSBuild][MSBUILD-LINK] pode ser acessado da linha de comando.
+
+> Se ele lembrasse desses princípios básicos, ele teria simplesmente abrindo um "Prompt de Comando" do [Visual Studio][VS-LINK] e executado:
+
+```
+$ msbuild MeuSistema.sln /p:PublishProfile=Production.pubxml
+```
+
+> Mas como ele só tinha feito um curso de [Visual Studio][VS-LINK] e sempre usou a ferramenta de forma visual, passou batido por esse detalhe e perdeu um dia com desculpas de atraso e tentando reparar sua instalação do [Visual Studio][VS-LINK].
 
 Então **ESTE CURSO** trata de **"Programação de Computadores"** e espero poder ajudar você a elucidar esses princípios. Depois quero te ajudar na escolha de sua primeira linguagem de programação e dar os primeiros passos com ela até desenvolver seus primeiros programas, mas isso não será nesse curso e sim em um próximo. De qualquer forma, você precisará primeiro entender esses princípios básicos.
 
@@ -95,3 +113,6 @@ Naveguação | [ANTERIOR][_A] | [CAPA][_H] | [PRÓXIMO][_P]
 [E5RYOUTUBE-LINK]: https://www.youtube.com/channel/UC6zPtVBfcAdkzq7-dpSlhdw
 [E5RPROJETO-LINK]: https://erlimar.wordpress.com/2018/01/26/saiu-o-primeiro-video-sobre-o-projeto-e5r-development-team
 [HELLOWORLD-LINK]: https://pt.wikipedia.org/wiki/Programa_Ol%C3%A1_Mundo
+[VS-LINK]: https://visualstudio.com
+[IDE-LINK]: https://pt.wikipedia.org/wiki/Ambiente_de_desenvolvimento_integrado
+[MSBUILD-LINK]: 
