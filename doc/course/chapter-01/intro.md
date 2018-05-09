@@ -12,7 +12,7 @@ Os "cursos introdutórios" são importantes para que possamos conhecer previamen
 
 E é aí que entram os "cursos básicos" como este (que por muitas vezes são menosprezados como sendo de "nível inferior" a um "curso avançado"), que são os mais importantes para qualquer que seja a área de aprendizado, porque são eles que tratam dos "fundamentos", ou seja, "da base" (e por isso o básico) de um assunto em si.
 
-> Não é atoa que aprendemos que a parte mais importante de uma construção é a "fundação".
+> Não é à toa que aprendemos que a parte mais importante de uma construção é a "fundação".
 
 Não é objetivo desse curso ser extenso, na verdade pretendo que ele seja o mais "curto e grosso" possível, mas não tem como pular certos assuntos. Eu aconselho que, por mais que você já ache que saiba dos assuntos tratados neste capítulo, leia-os novamente, nem que seja pra confirmar que você já sabe; quem sabe você possa ter mais uma oportunidade de revisar seus conceitos.
 
