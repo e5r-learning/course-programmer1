@@ -57,17 +57,15 @@ E quando você sabe os princípios básicos de "Programação de Computadores" p
 
 Voltando então aos meus colegas (e eu também sou um desses colegas) que por vezes tem certos "apagões": Na verdade eu percebi que o que faltava na verdade eram esses conhecimentos básicos.
 
-Veja um exemplo de situação que já passem:
+Veja um exemplo de situação que já passei:
 
 > Um colega desenvolvedor [.NET][DOTNET-LINK] tinha que publicar um sistema de forma urgente, mas o seu [Visual Studio][VS-LINK] estava com um problema que travava a tela assim que abria, e ele não conseguia abrir o projeto. Mas o que ele precisava era só publicar o projeto.
 
 > Ele já estava com o código do sistema e já tinha as ferramentas do [Visual Studio][VS-LINK] instaladas na máquina, só não conseguia abrir a [IDE][IDE-LINK] (o problema era só um plugin instalado que estava dando "pau").
 
-> Mas se ele lembrasse do princípio básico da programação que diz que um código é compilado antes de ser executado em si, ou seja, o que ele precisava era só compilar o código que ele já tinha em mãos.
+> Mas se ele lembrasse do princípio básico da programação que diz que um código é compilado antes de ser executado em si, e que isso é feito por um ["compilador"][COMPILADOR-LINK], e no caso do [Visual Studio][VS-LINK] esse ["compilador"][COMPILADOR-LINK] é o [MSBuild][MSBUILD-LINK], ou seja, o que ele precisava era só compilar o código que ele já tinha em mãos usando o [MSBuild][MSBUILD-LINK] na linha de comando; porque é isso que o [Visual Studio][VS-LINK] faz por traz dos panos quando clicamos nos menus "Build" e "Publish".
 
-> Juntando a isso, se ele lembrasse que o [Visual Studio][VS-LINK] na verdade usa o [MSBuild][MSBUILD-LINK] para compilar e publicar a aplicação quando clicamos nos menus "Build" e "Publish", e que o [MSBuild][MSBUILD-LINK] pode ser acessado da linha de comando.
-
-> Se ele lembrasse desses princípios básicos, ele teria simplesmente abrindo um "Prompt de Comando" do [Visual Studio][VS-LINK] e executado:
+> Se ele lembrasse desses princípios básicos, ele teria simplesmente aberto um "Prompt de Comando" do [Visual Studio][VS-LINK] e executado:
 
 ```
 $ msbuild MeuSistema.sln /p:PublishProfile=Production.pubxml
@@ -115,4 +113,5 @@ Naveguação | [ANTERIOR][_A] | [CAPA][_H] | [PRÓXIMO][_P]
 [HELLOWORLD-LINK]: https://pt.wikipedia.org/wiki/Programa_Ol%C3%A1_Mundo
 [VS-LINK]: https://visualstudio.com
 [IDE-LINK]: https://pt.wikipedia.org/wiki/Ambiente_de_desenvolvimento_integrado
-[MSBUILD-LINK]: 
+[MSBUILD-LINK]: https://docs.microsoft.com/pt-br/visualstudio/msbuild/msbuild
+[COMPILADOR-LINK]: https://pt.wikipedia.org/wiki/Compilador
