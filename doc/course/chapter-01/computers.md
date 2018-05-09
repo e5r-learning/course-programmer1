@@ -33,6 +33,12 @@ Mas pra você se divertir um pouco, vou deixar alguns links de vídeos bem legai
 
 > TODO: ... Mas vamos ao que interessa. Computador, processador + memória + IO devices (dispositivos e entrada/saída)
 
+> TODO: Sobre comprar um smartphone e a luta pra explicar ao vendedor que pra mim o que interessa é saber quanto de memória RAM e não capacidade de armazenamento ou memória interna
+
+> TODO: Os vídeos antigos são bem legais e tiramos até "sarro", mas hoje não é diferente. Estamos sempre nos impressionando com as coisas maravilhosas e mágicas que essa ferramenta faz, e nós "os programadores", somos os responsáveis por criar essas fantásticas coisas chamadas "programas" que causam as mais fantásticas reassões nas pessoas quando os vê funcionando e impressionando-as. O que hoje te impressiona, ou faz você sentir orgulho de ter criado, daqui a 10 ou 20 anos vai causar a mesma sensação em você mesmo ou seus filhos - eles vão ver isso e tirar "sarro" da mesma forma como nós estamos fazendo agora ao ver esses vídeos antigos. O fato é que não importa, com o computador nós sempre podemos criar novas coisas, e essas coisas são "programas de computador".
+
+> TODO: ...
+
 Naveguação | [ANTERIOR][_A] | [INÍCIO][_H] | [PRÓXIMO][_P]
 -----------|----------------|------------|--------------
 
