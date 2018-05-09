@@ -11,7 +11,7 @@ Mas pra você se divertir um pouco, vou deixar alguns links de vídeos bem legai
 * [História: E evolução dos computadores][VIDEO1-LINK]
 * [Chegada do Celular no Brasil][VIDEO2-LINK]
 * [Jornal Hoje 1981 - O Computador no Brasil][VIDEO3-LINK]
-* [O mito do programador autodidata - LF Bittencourt][VIDEO4-LINK ]
+* [O mito do programador autodidata - LF Bittencourt][VIDEO4-LINK]
   - Tirando alguns palavrões que o palestrante usa, é bem legal.
   - Achei interessante porque a história dele é parecida com a minha, exceto que eu não consegui o estágio nem a consegui a bolsa
   - Mas é bem legal, que ele explica sobre "auto-didata", o que eu também disse no início que sou (e sou em partes).
