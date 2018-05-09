@@ -11,7 +11,7 @@ Curso "Programador Nível #1"
 * Pessoas interessadas em iniciar no mundo do desenvolvimento de software mas que não tem nenhum conhecimento ainda.
 * Programadores que já sabem alguma linguagem de programação mas que desejam revisar seus conhecimentos mais básicos.
 
-## Seja bem vindo!
+## O que vou aprender?
 
 Neste curso você aprenderá os conceitos mais básicos da programação, sem focar diretamente em uma linguagem específica,
 mas passeando por várias delas para demonstrar os vários paradigmas da programação e como eles são aplicados nas linguagens
@@ -24,4 +24,5 @@ Este curso é um pré-requisito para os cursos de "linguagens de programação".
 * [Introdução](doc/course/intro.md)
 * [Capítulo 1 - O mundo dos computadores](doc/course/chapter-01/intro.md)
   - [Título ](doc/course/chapter-01/*.md)
-* [Capítulo 2 - ***](doc/course/chapter-02/intro.md)
+* [Capítulo 2 - As Linguagens de Programação](doc/course/chapter-02/intro.md)
+  - [Paradigmas das Linguagens de Programação ](doc/course/chapter-02/paradigms.md)
