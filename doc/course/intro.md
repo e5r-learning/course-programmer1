@@ -1,7 +1,7 @@
 Introdução
 ==========
 
-Naveguação | [ANTERIOR][_A] | [CAPA][_H] | [PRÓXIMO][_P]
+Naveguação | [ANTERIOR][_A] | [INÍCIO][_H] | [PRÓXIMO][_P]
 -----------|----------------|------------|--------------
 
 Me chamo [Erlimar Silva Campos](htps://erlimar.wordpress.com), sou programador auto-didata e trabalho com desenvolvimento de software a cerca de 15 anos (até o momento em que escrevo essas linhas).
@@ -79,13 +79,13 @@ Depois é claro que quero te ajudar na escolha de sua primeira linguagem de prog
 
 Que você faça um bom proveito deste material.
 
-Naveguação | [ANTERIOR][_A] | [CAPA][_H] | [PRÓXIMO][_P]
+Naveguação | [ANTERIOR][_A] | [INÍCIO][_H] | [PRÓXIMO][_P]
 -----------|----------------|------------|--------------
 
 <!-- Links de navegação -->
-[_A]: ../../README.md "Voltar à capa"
-[_H]: ../../README.md "Voltar à capa"
-[_P]: chapter-01/intro.md "Capítulo 1 - O mundo dos computadores"
+[_A]: ../../README.md "Início"
+[_H]: ../../README.md "Início"
+[_P]: chapter-01/intro.md "Capítulo 1 - O \"básico\""
 
 <!-- Outros links -->
 [CSHARP-LINK]: https://docs.microsoft.com/pt-br/dotnet/csharp

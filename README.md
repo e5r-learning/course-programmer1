@@ -22,8 +22,10 @@ Este curso é um pré-requisito para os cursos de "linguagens de programação".
 ## Conteúdo
 
 * [Introdução](doc/course/intro.md)
-* [Capítulo 1 - O mundo dos computadores](doc/course/chapter-01/intro.md)
+* [Capítulo 1 - O "básico"](doc/course/chapter-01/intro.md)
+  - [O mundo dos computadores](doc/course/chapter-01/computers.md)
   - [Os programas de computador](doc/course/chapter-01/programs.md)
-* [Capítulo 2 - As linguagens de programação](doc/course/chapter-02/intro.md)
+* [Capítulo 2 - As "linguagens"](doc/course/chapter-02/intro.md)
+  - [Tipos de linguagens de programação](doc/course/chapter-02/types-languages.md)
   - [Paradigmas das linguagens de programação ](doc/course/chapter-02/paradigms.md)
-* 
+* ...
