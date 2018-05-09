@@ -3,6 +3,8 @@ Curso "Programador Nível #1"
 
 > _by_ [**E5R Development Team**](@e5r), _author_ [**Erlimar Silva Campos**](@erlimar)
 
+![](doc/course/assets/e5r_learning.png)
+
 
 ## Público alvo
 
