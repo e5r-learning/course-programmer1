@@ -16,6 +16,8 @@ E é aí que entram os "cursos básicos" como este (que por muitas vezes são me
 
 Não é objetivo desse curso ser extenso, na verdade pretendo que ele seja o mais "curto e grosso" possível, mas não tem como pular certos assuntos. Eu aconselho que, por mais que você já ache que saiba dos assuntos tratados neste capítulo, leia-os novamente, nem que seja pra confirmar que você já sabe; quem sabe você possa ter mais uma oportunidade de revisar seus conceitos.
 
+## Então o que é o básico?
+
 Já que estamos querendo "programar computadores" precisamos primeiro saber do que se tratam essas ferramentas e como elas funcionam. Eu sei que você já deve saber usar um computador, provavelmente faz isso diariamente, e talvez "desde que nasceu". Talvez até você esteja lendo este material de um computador do tipo "notebook" ou um "pc", ou um "smartphone" (ou talvez não - talvez você tenha impresso o material e está lendo em uma folha, rssss...).
 
 Mas não é disso que estou falando (de saber como usar o computador). Estou falando de entender como as coisas funcionam dentro de um computador. Como um programa de computador faz seu trabalho.
