@@ -24,7 +24,7 @@ Mas não é disso que estou falando (de saber como usar o computador). Estou fal
 
 Um "usuário de computador" precisa saber que quanto mais memória o dispositivo tem melhor é pra ele, porque seu computador (ou smartphone) é bom pra rodar todo tipo de programa/jogo moderno.
 
-Já um "programador" precisa saber a diferença entre "armazenamento interno" (o que é o mesmo que HD pra simplificar) e a "memória RAM", e mais que isso, precisa saber o que é uma "memória RAM" e como ela se relaciona com seu "processador" e com as "variáveis" de seu programa.
+Já um "programador" precisa saber a diferença entre "armazenamento interno" (o que é o mesmo que HD pra simplificar) e a "memória RAM", e mais que isso, precisa saber o que é uma "memória RAM" e como ela se relaciona com seu "processador" e com as "variáveis" de seu programa e porque isso é tão importante na hora de escolher entre 32 ou 64 bits por exemplo.
 
 Na verdade não vamos ser tão profundos a ponto de discutir a aritmética dos processadores e suas variações entre as tecnologias 32/64 bits, ou as normalizações sobre cálculos com pontos flutuantes. Mas como um "programador", o mínimo que eu precisarei saber é que meu programa quando estiver em execução ele ESTÁ na memória RAM, e que um "jogo" nada mais é que um "programa" como outro qualquer, só que usa mais os gráficos visuais e sons do que outras coisas.
 
