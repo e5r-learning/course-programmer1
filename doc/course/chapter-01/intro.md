@@ -6,13 +6,15 @@ Naveguação | [ANTERIOR][_A] | [INÍCIO][_H] | [PRÓXIMO][_P]
 
 > Este é um "curso básico" e  não um "curso introdutório".
 
-Quando falamos "básico" muitas vezes pensamos em alguma coisa "superficial", mas na verdade um "curso introdutório" é que se trata de algo "superficial". E quando estamos falando "superficial" não estamos menosprezando algo, mas somente informando que não iremos tratar "a fundo" o assunto em questão, por se tratar apenas de uma "introdução", após o interessado pode buscar mais detalhes em outros materiais.
+Quando falamos "básico" muitas vezes pensamos em alguma coisa "superficial", mas na verdade um "curso introdutório" é que se trata de algo "superficial". E quando estamos falando "superficial" não estamos menosprezando algo, mas somente informando que não iremos tratar "a fundo" o assunto em questão, por se tratar apenas de uma "introdução" para alguém que ainda não conhece do assunto; após, o interessado pode buscar mais detalhes em outros materiais.
 
-Os "cursos introdutórios" são importantes para que possamos conhecer previamente um assunto que ainda não conhecemos, e após, decidirmos por realmente estudar ou partir para outra.
+Os "cursos introdutórios" são importantes para que possamos conhecer previamente um assunto que ainda não conhecemos, e após, decidirmos por realmente estudar ou partir para outra coisa.
 
 Por outro lado os "cursos básicos" (que por muitas vezes são menosprezados como sendo de "nível inferior" a um "curso avançado") são os mais importantes para qualquer que seja a área de aprendizado, porque são eles que tratam dos "fundamentos", ou seja, "da base" (e por isso o básico) de um assunto em si.
 
 > Não é atoa que aprendemos que a parte mais importante de uma construção é a "fundação".
+
+Não é objetivo desse curso ser extenso, na verdade pretendo que ele seja o mais "curto e grosso" possível, mas não tem como pular certos assuntos. Eu aconselho que, por mais que você já ache que saiba dos assuntos tratados neste capítulo, leia-os novamente, nem que seja pra confirmar que você já sabe; quem sabe você possa ter mais uma oportunidade de revisar seus conceitos.
 
 Naveguação | [ANTERIOR][_A] | [INÍCIO][_H] | [PRÓXIMO][_P]
 -----------|----------------|------------|--------------
