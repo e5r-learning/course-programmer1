@@ -98,8 +98,8 @@ Este curso é um pré-requisito para os cursos de "linguagens de programação".
   - rtl no pascal e a biblioteca de componentes
   - dotnet core, coreclr e corefx
   - talvez o termo pilhas embutidas fique melhor aqui
-* Capítulo 6 - Compartilhamento e Modularização
-  - Módulos, pacotes
+* Capítulo 6 - Compartilhamento, modularização e reutilização
+  - Do Ctrl+C Ctrl+V, e-mails a módulos e pacotes
   - using, import, #include, require require_once
   - package managements e os repositórios de pacotes
   - versões e versionamento
