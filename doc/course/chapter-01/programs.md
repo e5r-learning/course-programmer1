@@ -130,7 +130,7 @@ Naveguação | [ANTERIOR][_A] | [INÍCIO][_H] | [PRÓXIMO][_P]
 <!-- Links de navegação -->
 [_A]: ./computers.md "O mundo dos computadores"
 [_H]: ../../../README.md "Início"
-[_P]: ../chapter-02/intro.md "Capítulo 2 - As linguagens"
+[_P]: ./bin.md "O formato binário"
 
 <!-- Outros links -->
 [MICROPROCESSADOR-LINK]: https://pt.wikipedia.org/wiki/Microprocessador
