@@ -1,7 +1,7 @@
 Capítulo 1 - O "básico"
 =======================
 
-Naveguação | [ANTERIOR][_A] | [INÍCIO][_H] | [PRÓXIMO][_P]
+Naveguação | [ANTERIOR][_A] | [TOPO][_H] | [PRÓXIMO][_P]
 -----------|----------------|------------|--------------
 
 > Este é um "curso básico" e  não um "curso introdutório".
@@ -32,12 +32,12 @@ Você pode usar a leitura deste capítulo como uma sessão mais relaxante, onde 
 
 Boa leitura!
 
-Naveguação | [ANTERIOR][_A] | [INÍCIO][_H] | [PRÓXIMO][_P]
+Naveguação | [ANTERIOR][_A] | [TOPO][_H] | [PRÓXIMO][_P]
 -----------|----------------|------------|--------------
 
 <!-- Links de navegação -->
 [_A]: ../intro.md "Introdução"
-[_H]: ../../../README.md "Início"
+[_H]: ../index.md "Topo"
 [_P]: ./computers.md "O mundo dos computadores"
 
 <!-- Outros links -->

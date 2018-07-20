@@ -1,7 +1,7 @@
 Os programas de computador
 ==========================
 
-Naveguação | [ANTERIOR][_A] | [INÍCIO][_H] | [PRÓXIMO][_P]
+Naveguação | [ANTERIOR][_A] | [TOPO][_H] | [PRÓXIMO][_P]
 -----------|----------------|------------|--------------
 
 > Um programador é uma pessoa que programa um computador para executar uma tarefa específica.
@@ -124,12 +124,12 @@ Um outro detalhe que não mencionamos ainda (só implicitamente) é que esses pr
 
 Mas não se prenda a esses detalhes por enquanto, eles serão elucidados no decorrer do curso. Por agora, você só precisa entender o que é um programa de computador e qual a relação dele com o próprio computador. Ou seja, o programa são as instruções dadas ao computador para executar as ações que nós queremos.
 
-Naveguação | [ANTERIOR][_A] | [INÍCIO][_H] | [PRÓXIMO][_P]
+Naveguação | [ANTERIOR][_A] | [TOPO][_H] | [PRÓXIMO][_P]
 -----------|----------------|------------|--------------
 
 <!-- Links de navegação -->
 [_A]: ./computers.md "O mundo dos computadores"
-[_H]: ../../../README.md "Início"
+[_H]: ../index.md "Topo"
 [_P]: ./bin.md "O formato binário"
 
 <!-- Outros links -->

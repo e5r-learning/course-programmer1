@@ -1,7 +1,7 @@
 O mundo dos computadores
 ========================
 
-Naveguação | [ANTERIOR][_A] | [INÍCIO][_H] | [PRÓXIMO][_P]
+Naveguação | [ANTERIOR][_A] | [TOPO][_H] | [PRÓXIMO][_P]
 -----------|----------------|------------|--------------
 
 Não vamos falar aqui sobre "A história dos computadores", caso queira saber mais sobre o assunto, deixo [este link][TECMUNDO-LINK]. (é um artigo fantástico no site TecMundo).
@@ -224,12 +224,12 @@ Concluo dizendo:
 
 > "Respeite, admire, entenda e tire o máximo proveito do computador pra fazer todas as coisas fantásticas que estão na sua mente".
 
-Naveguação | [ANTERIOR][_A] | [INÍCIO][_H] | [PRÓXIMO][_P]
+Naveguação | [ANTERIOR][_A] | [TOPO][_H] | [PRÓXIMO][_P]
 -----------|----------------|------------|--------------
 
 <!-- Links de navegação -->
 [_A]: ./intro.md "Capítulo 1 - O \"básico\""
-[_H]: ../../../README.md "Início"
+[_H]: ../index.md "Topo"
 [_P]: ./programs.md "Os programas de computador"
 
 <!-- Outros links -->
