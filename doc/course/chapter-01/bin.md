@@ -7,19 +7,54 @@ Naveguação | [ANTERIOR][_A] | [TOPO][_H] | [PRÓXIMO][_P]
 Aquário é _algo que contém água_, mostruário é _amostra de algo_, portuário é _algo que tem a ver com portos_,
 e **binário** é _ALGO QUE ESTÁ EM DOIS_.
 
-Parece simples, e realmente o é.
-Por outro lado, toda a complexidade em volta do assunto _binário_, ou _formato binário_, ou _código binário_
-tem a ver com o fato de não haver mais explicações para isso: É simplesmente algo que está em pares.
+Parece simples, e realmente é.
+Por outro lado, toda a complexidade em volta do assunto _binário_, tem a ver com o fato de não nos darem mais explicações para isso. Sempre ouvimos algo como: É só zero e um, verdadeiro ou falso, ligado ou desligado. E apesar de ser tão simples como zero e um, quando estamos falando de _"formato binário"_ ou _"código binário"_, nos parece que esses zeros e uns não são suficientes.
 
-A forma de um _quadrado_ você já sabe e pode imaginar mesmo agora quando lê essas linhas, do mesmo modo
-sabe qual a forma de um _círculo_, ou de um _triângulo_. Também provavelmente consegue imaginar a forma de
-uma montanha ou de uma xícara. Então **forma** é uma palavra que usamos para significar _como nós entendemos algo_.
+Neste tópico vou me atentar em explicar o que é _"formato binário"_ e _"código binário"_. Mas antes disso quero deixar algumas coisas claras.
 
-Já o **formato** é quando relacionamos alguma coisa com uma **forma** pré-definida, ou seja,
-"àquela nuvem tem o formato de um coração", relacionamos a _nuvem_ a forma _coração_. Quando usamos essas
-comparações, ou seja, por formatos, normalmente estamos querendo transmitir uma informação qualquer a outra pessoa.
-Então transmitimos essa _mensagem_ usando formatos; e quem recebe a mensagem pode reconstruir em sua mente,
-e entender o conteúdo.
+## Conceitos pré-estabelecidos
+
+Algumas coisas vamos deixar claro agora. Mesmo que você ainda ache isso meio obscuro, podemos pelo menos dizer que temos três coisas em mente (mesmo que seja só decorado).
+
+### 1º) O computador "vê" tudo como zeros e uns
+
+![](../assets/bit_zero_um.png)
+
+Tudo que é gravado no computador ou está em execução, é representado internamente como se fosse uma fila de números que contém somente zeros e uns.
+
+    0101010101010101010101010101010101010101010101010101...
+
+### 2º) Zero e um na verdade é ligado ou desligado
+
+![](../assets/on_off.png)
+
+A forma correta de representarmos os dados que o computador processa seria com um "ligado" ou "desligado", porque está diretamente relacionado com o fato do computador ser um dispositivo que funciona com energia elétrica, e cada informação é como se fosse um terminal que está "ligado" ou "desligado". Não existe outro estado de cada terminal.
+
+Poderíamos usar "L" pra ligado e "D" para desligado, mas aí seria:
+
+    LDLDLDLDLDLDLDLDLDLDLDLDLDLDLDLDLDLDLDLDLDLDLDLDLDLD...
+
+Neste caso, o "0" para desligado e "1" para ligado fica mais legível, e por se tratar de número, fica mais fácil relacionar com a matemática e os cálculos que iremos fazer com esses dados.
+
+### 3º) Os bits não são visíveis
+
+A essa informação que pode ser ou "0" ou "1", ou "ligado" ou "desligado", damos o nome de BIT.
+
+Mas não pense você, que se apontar um microscópio para um processador você vai enxergar um monte de zeros e uns:
+
+![](../assets/processor_internal_zoom.jpg)
+
+Como a informação está relacionada ao fator elétrico, ou seja, quando um dado está "energizado" ou "não energizado", "ligado" ou "desligado". Caso você conseguisse um equipamento minúsculo para tentar enxergar dentro do processador, você precisaria na verdade de um tipo de medidor de corrente elétrica:
+
+![](../assets/multimeter.jpg)
+
+Em outras palavras, não pense que você vá enxergar "zeros" e "uns" dentro de um computador.
+
+## O protocolo
+
+<hr />
+<hr />
+<hr />
 
 Os formatos, ou _mensagens formatadas_, permitem a comunicação entre partes.
 
