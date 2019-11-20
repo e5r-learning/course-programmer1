@@ -9,6 +9,7 @@
 * [Capítulo 2 - As "linguagens"](chapter-02/intro.md)
   - [Tipos de linguagens de programação](chapter-02/types-languages.md)
   - [Paradigmas das linguagens de programação ](chapter-02/paradigms.md)
+  - [A inteligência das linguagens de programação](chapter-02/language-intelligence.md)
 * [Capítulo 3 - A dinâmica e estrutura de um programa](chapter-03/intro.md)
 * [Capítulo 4 - Funções, procedimentos, parâmetros e retorno](chapter-04/intro.md)
 * [Capítulo 5 - Standard library (biblioteca padrão)](chapter-05/intro.md)
